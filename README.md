@@ -1,16 +1,16 @@
-<h1 align="center">Hello World 👋, my name is Boluwaji Akinsefunmi and<br/>IAmMasterCraft</h1>
+<h1 align="center">Hello World 👋, my name is Boluwaji Akinsefunmi and<br/><u>IAmMasterCraft</u></h1>
 <h3 align="center"><em>A geek interested in front-end & back-end of both web and mobile app development</em></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammastercraft&label=Profile%20views&color=0e75b6&style=flat" alt="iammastercraft" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammastercraft&label=Monitoring%Spirits&color=86e3ce&style=plastic" alt="iammastercraft" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammastercraft" alt="iammastercraft" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bomoakin" target="blank"><img src="https://img.shields.io/twitter/follow/bomoakin?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
 - 🔭 I’m currently working on: 
-    _a. **getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_
-    _b. **sharpening my backend development skills with JavaScript at [JSMinnaInternship](https://twitter.com/JavascriptMinna)**_
-    _c. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **sharpening my backend development skills with JavaScript at [JSMinnaInternship](https://twitter.com/JavascriptMinna)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_c. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
 
 - 🌱 I am also trying to wrap my heads around **Data Structures and Algorithms**
 
@@ -46,17 +46,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 </div>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammastercraft&show_icons=true&locale=en&layout=compact" alt="iammastercraft" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammastercraft&show_icons=true&locale=en" alt="iammastercraft" /></p>
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p><a class="twitter-timeline"
-      href="https://twitter.com/BOmoakin"
-      data-tweet-limit="1">
-Tweets by @BOmoakin</a></p>
 
 
 <span>&nbsp;</span>
