@@ -1,22 +1,22 @@
-<h1 align="center">Hello World 👋, my name is Boluwaji Akinsefunmi and<br/><u>IAmMasterCraft</u></h1>
+<h1 align="center">👋 Hello World 🌍, my name is Boluwaji Akinsefunmi and<br/>&lt;&nbsp;IAmMasterCraft 👨🏽‍💻 &nbsp;/&gt;</h1>
 <h3 align="center"><em>A geek interested in front-end & back-end of both web and mobile app development</em></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammastercraft&label=Monitoring%Spirits&color=86e3ce&style=plastic" alt="iammastercraft" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammastercraft&label=MONITORING+SPIRIT&color=86e3ce&style=plastic" alt="iammastercraft" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammastercraft" alt="iammastercraft" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bomoakin" target="blank"><img src="https://img.shields.io/twitter/follow/bomoakin?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
 - 🔭 I’m currently working on: 
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **sharpening my backend development skills with JavaScript at [JSMinnaInternship](https://twitter.com/JavascriptMinna)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Sharpening my backend development skills with JavaScript at [JSMinnaInternship](https://twitter.com/JavascriptMinna)**_
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_c. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
 
 - 🌱 I am also trying to wrap my head around **Data Structures and Algorithms**
 
 - 📫 You can hit me up instantly by sending a mail to **[bolu.akinsefunmi@gmail.com](mailto://bolu.akinsefunmi@gmail.com)**
 
-- ⚡ BREAKING NEWS: **I am unseriously serious!**
+- ⚡ In case you don't know, **I am unseriously serious!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
