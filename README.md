@@ -14,7 +14,7 @@
 
 - 🌱 I am also trying to wrap my head around **Data Structures and Algorithms**
 
-- 📫 You can hit me up instantly by sending a mail to **[bolu.akinsefunmi@gmail.com](mailto://bolu.akinsefunmi@gmail.com)**
+- 📫 You can hit me up instantly by sending a mail to **[bolu.akinsefunmi@gmail.com](mailto:bolu.akinsefunmi@gmail.com)**
 
 - ⚡ In case you don't know, **I am unseriously serious!**
 
