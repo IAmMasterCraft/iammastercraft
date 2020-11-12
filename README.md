@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World 🌍, my name is Boluwaji Akinsefunmi and<br/>&lt;&nbsp;IAmMasterCraft 👨🏽‍💻 &nbsp;/&gt;</h1>
+<h1 align="center"> Hello World 👋🌍; </br>My name is Boluwaji Akinsefunmi and<br/>&lt;&nbsp;IAmMasterCraft 👨🏽‍💻 &nbsp;/&gt;</h1>
 <h3 align="center"><em>A geek interested in front-end & back-end of both web and mobile app development</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammastercraft&label=MONITORING+SPIRIT&color=86e3ce&style=plastic" alt="iammastercraft" /> </p>
