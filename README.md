@@ -12,7 +12,7 @@
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **sharpening my backend development skills with JavaScript at [JSMinnaInternship](https://twitter.com/JavascriptMinna)**_
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_c. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
 
-- 🌱 I am also trying to wrap my heads around **Data Structures and Algorithms**
+- 🌱 I am also trying to wrap my head around **Data Structures and Algorithms**
 
 - 📫 You can hit me up instantly by sending a mail to **[bolu.akinsefunmi@gmail.com](mailto://bolu.akinsefunmi@gmail.com)**
 
