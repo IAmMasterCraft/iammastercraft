@@ -1,15 +1,14 @@
 <h1 align="center"> 
-    Hello World 👋🌍; </br>My name is Boluwaji Akinsefunmi and<br/>&lt;&nbsp;IAmMasterCraft 👨🏽‍💻 &nbsp;/&gt; </br></br>
-    <small>
-        <a align="right" href='https://iammastercraft.github.io'>
-            <!--STARTS_HERE_QUOTE_README-->
-<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-        </a>
-    </small>
+    Hello World 👋🌍; </br>My name is Boluwaji Akinsefunmi and<br/>&lt;&nbsp;IAmMasterCraft 👨🏽‍💻 &nbsp;/&gt;
 </h1>
 
-<h3 align="center"><em>A geek interested in front-end & back-end of both web and mobile app development</em></h3>
+<!-- <h3 align="center"><em>A geek interested in front-end & back-end of both web and mobile app development</em></h3> -->
+<h3 align="center">
+    <a align="right" href='https://iammastercraft.github.io'>
+        <!--STARTS_HERE_QUOTE_README-->
+        <!--ENDS_HERE_QUOTE_README-->
+    </a>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammastercraft&label=MONITORING+SPIRIT&color=86e3ce&style=plastic" alt="iammastercraft" /> </p>
 
