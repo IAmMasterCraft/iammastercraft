@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
+<i>❝It’s so shocking that 80% of all pictures on the internet are of naked women.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
