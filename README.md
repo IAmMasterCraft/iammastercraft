@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on: 
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Sharpening my backend development skills with JavaScript at [JSMinnaInternship](https://twitter.com/JavascriptMinna)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Sharpening my fullstack development skills with PHP at [Ustacky](https://twitter.com/Ustacky)**_
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_c. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
 
 - 🌱 I am also trying to wrap my head around **Data Structures and Algorithms**
