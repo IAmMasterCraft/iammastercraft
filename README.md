@@ -19,7 +19,8 @@
 
 - 🔭 I’m currently working on: 
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Sharpening my fullstack development skills with PHP at [Ustacky](https://twitter.com/Ustacky)**_
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Web Development Bootcamp at Zuri Training [HNG Internship 8.0](https://twitter.com/hnginternship)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_c. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
 
 - 🌱 I am also trying to wrap my head around **Data Structures and Algorithms**
 
