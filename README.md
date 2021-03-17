@@ -18,9 +18,9 @@
 <p align="left"> <a href="https://twitter.com/bomoakin" target="blank"><img src="https://img.shields.io/twitter/follow/bomoakin?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
 - 🔭 I’m currently working on: 
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Sharpening my fullstack development skills with PHP at [Ustacky](https://twitter.com/Ustacky)**_
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_c. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
+<!--     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_ -->
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Sharpening my fullstack development skills with PHP at [Ustacky](https://twitter.com/Ustacky)**_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
 
 - 🌱 I am also trying to wrap my head around **Data Structures and Algorithms**
 
@@ -52,6 +52,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
