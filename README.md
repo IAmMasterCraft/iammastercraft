@@ -18,7 +18,6 @@
 <p align="left"> <a href="https://twitter.com/bomoakin" target="blank"><img src="https://img.shields.io/twitter/follow/bomoakin?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
 - 🔭 I’m currently working on: 
-<!--     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Getting a B.Sc Degree in Computer Science at [National Open University of Nigeria](https://nou.edu.ng)**_ -->
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Sharpening my fullstack development skills with PHP at [Ustacky](https://twitter.com/Ustacky)**_
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
 
