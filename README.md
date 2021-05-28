@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
+<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
