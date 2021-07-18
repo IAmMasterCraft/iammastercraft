@@ -63,7 +63,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammastercraft&show_icons=true&locale=en&layout=compact" alt="iammastercraft" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammastercraft&show_icons=true&locale=en" alt="iammastercraft" /></p>
 
+<br>
+
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=iammastercraft)
 
 <span>&nbsp;</span>
