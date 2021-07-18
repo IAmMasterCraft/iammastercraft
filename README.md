@@ -13,7 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammastercraft&label=MONITORING+SPIRIT&color=86e3ce&style=plastic" alt="iammastercraft" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammastercraft" alt="iammastercraft" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammastercraft" alt="iammastercraft" /></a> </p>-->
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=iammastercraft&theme=discord&margin-w=15&no-frame=true)
 
 <p align="left"> <a href="https://twitter.com/bomoakin" target="blank"><img src="https://img.shields.io/twitter/follow/bomoakin?logo=twitter&style=for-the-badge" alt="bomoakin" /></a> </p>
 
