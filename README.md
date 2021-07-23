@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on: 
     </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_a. **Developing [Companion](https://play.google.com/store/apps/details?id=com.mastercraft.companion)**_
-    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **and Freelancing . . . **_
+    </br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>_b. **And Freelancing . . . **_
 
 - 🌱 I am also trying to wrap my head around **Data Structures and Algorithms**
 
