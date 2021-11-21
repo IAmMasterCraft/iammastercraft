@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
+<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
