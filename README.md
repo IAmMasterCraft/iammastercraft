@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to predict the future is to implement it.”— David Heinemeier Hansson   ❞</i>
+<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
