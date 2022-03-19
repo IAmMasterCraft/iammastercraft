@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   ❞</i>
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
