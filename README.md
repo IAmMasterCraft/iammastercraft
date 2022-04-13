@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
+<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
