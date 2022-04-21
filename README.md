@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE , FORGET. If you don’t use PLEASE enough times while coding, Compiler rejects the code.❞</i>
+<i>❝“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
