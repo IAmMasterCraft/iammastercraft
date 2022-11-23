@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   ❞</i>
+<i>❝There are more than 5000 new computer viruses are released every month.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
