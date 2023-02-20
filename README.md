@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   ❞</i>
+<i>❝The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
