@@ -6,7 +6,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.❞</i>
+<i>❝“Make everything as simple as possible, but not simpler.”— Albert Einstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
