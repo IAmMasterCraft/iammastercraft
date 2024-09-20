@@ -35,7 +35,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”❞</i>
+<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
