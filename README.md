@@ -35,7 +35,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.❞</i>
+<i>❝“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
