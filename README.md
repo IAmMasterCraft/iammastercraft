@@ -35,7 +35,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
+<i>❝“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
