@@ -35,7 +35,7 @@
 <h3 align="center">
     <a align="right" href='https://iammastercraft.github.io'>
         <!--STARTS_HERE_QUOTE_README-->
-<i>❝The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.❞</i>
+<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
     </a>
 </h3>
