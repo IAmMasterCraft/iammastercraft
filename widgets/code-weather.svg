@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" fill="none">
+  <title>@IAmMasterCraft's Code Weather</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600;700&amp;display=swap');
+      * { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .title { font-size: 18px; font-weight: 600; fill: #1D1D1F; letter-spacing: -0.3px; }
+      .subtitle { font-size: 13px; font-weight: 400; fill: #86868B; letter-spacing: -0.1px; }
+      .label { font-size: 11px; font-weight: 500; fill: #86868B; letter-spacing: 0.3px; text-transform: uppercase; }
+      .value { font-size: 14px; font-weight: 600; fill: #1D1D1F; }
+      .small { font-size: 11px; font-weight: 400; fill: #AEAEB2; }
+    </style>
+    <filter id="shadow" x="-4%" y="-4%" width="108%" height="108%">
+      <feDropShadow dx="0" dy="1" stdDeviation="3" flood-color="#000000" flood-opacity="0.04"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="8" flood-color="#000000" flood-opacity="0.03"/>
+    </filter>
+    <filter id="softShadow" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000000" flood-opacity="0.06"/>
+    </filter>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FAFAFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" rx="16" fill="url(#cardBg)" stroke="#E8E8ED" stroke-width="1"/>
+  <text x="32" y="38" class="title">Code Weather</text>
+  <text x="32" y="58" class="subtitle">Developer activity forecast</text>
+  <rect x="32" y="78" width="240" height="140" rx="12" fill="#F5F5F7"/>
+  <text x="56" y="130" font-size="36">🔥</text>
+  <text x="112" y="126" font-size="42" font-weight="300" fill="#1D1D1F">56°</text>
+  <text x="56" y="158" font-size="15" font-weight="600" fill="#1D1D1F">Hot</text>
+  <text x="56" y="176" font-size="11" fill="#86868B">On fire! High activity</text>
+  <text x="56" y="200" font-size="12" font-weight="500" fill="#34C759">↑ Trending up</text>
+  <text x="300" y="74" class="label">7-DAY FORECAST</text>
+  <text x="332.85714285714283" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Mon</text>
+  <text x="332.85714285714283" y="122" text-anchor="middle" font-size="18">☁️</text>
+  <text x="332.85714285714283" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
+  <text x="332.85714285714283" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
+  <text x="398.57142857142856" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Tue</text>
+  <text x="398.57142857142856" y="122" text-anchor="middle" font-size="18">☁️</text>
+  <text x="398.57142857142856" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
+  <text x="398.57142857142856" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
+  <text x="464.2857142857143" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Wed</text>
+  <text x="464.2857142857143" y="122" text-anchor="middle" font-size="18">⛅</text>
+  <text x="464.2857142857143" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">1</text>
+  <text x="464.2857142857143" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
+  <text x="530.0" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Thu</text>
+  <text x="530.0" y="122" text-anchor="middle" font-size="18">☁️</text>
+  <text x="530.0" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
+  <text x="530.0" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
+  <text x="595.7142857142858" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Fri</text>
+  <text x="595.7142857142858" y="122" text-anchor="middle" font-size="18">☁️</text>
+  <text x="595.7142857142858" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
+  <text x="595.7142857142858" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
+  <text x="661.4285714285714" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Sat</text>
+  <text x="661.4285714285714" y="122" text-anchor="middle" font-size="18">☀️</text>
+  <text x="661.4285714285714" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">4</text>
+  <text x="661.4285714285714" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
+  <text x="727.1428571428571" y="94" text-anchor="middle" font-size="11" font-weight="600" fill="#1D1D1F">Sun</text>
+  <text x="727.1428571428571" y="122" text-anchor="middle" font-size="18">🔥</text>
+  <text x="727.1428571428571" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">7</text>
+  <text x="727.1428571428571" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
+  <text x="300" y="194" class="label">30-DAY ACTIVITY</text>
+  <rect x="744.7" y="208.0" width="14.3" height="60.0" rx="1.5" fill="#007AFF" opacity="0.7"/>
+  <rect x="729.3" y="233.7" width="14.3" height="34.3" rx="1.5" fill="#007AFF" opacity="0.5"/>
+  <rect x="714.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="698.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="683.3" y="259.4" width="14.3" height="8.6" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="668.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="652.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="637.3" y="242.3" width="14.3" height="25.7" rx="1.5" fill="#007AFF" opacity="0.5"/>
+  <rect x="622.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="606.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="591.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="576.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="560.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="545.3" y="259.4" width="14.3" height="8.6" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="530.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="514.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="499.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="484.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="468.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="453.3" y="259.4" width="14.3" height="8.6" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="438.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="422.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="407.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="392.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="376.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="361.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="346.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="330.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="315.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="300.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <text x="32" y="278" class="small" fill="#AEAEB2">Today: 7 commits · 7-day avg: 1.7 · 30-day avg: 0.6</text>
+</svg>

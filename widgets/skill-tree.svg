@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" fill="none">
+  <title>@IAmMasterCraft's Skill Tree</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600;700&amp;display=swap');
+      * { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .title { font-size: 18px; font-weight: 600; fill: #1D1D1F; letter-spacing: -0.3px; }
+      .subtitle { font-size: 13px; font-weight: 400; fill: #86868B; letter-spacing: -0.1px; }
+      .label { font-size: 11px; font-weight: 500; fill: #86868B; letter-spacing: 0.3px; text-transform: uppercase; }
+      .value { font-size: 14px; font-weight: 600; fill: #1D1D1F; }
+      .small { font-size: 11px; font-weight: 400; fill: #AEAEB2; }
+    </style>
+    <filter id="shadow" x="-4%" y="-4%" width="108%" height="108%">
+      <feDropShadow dx="0" dy="1" stdDeviation="3" flood-color="#000000" flood-opacity="0.04"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="8" flood-color="#000000" flood-opacity="0.03"/>
+    </filter>
+    <filter id="softShadow" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000000" flood-opacity="0.06"/>
+    </filter>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FAFAFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" rx="16" fill="url(#cardBg)" stroke="#E8E8ED" stroke-width="1"/>
+  <text x="32" y="38" class="title">Skill Tree</text>
+  <text x="32" y="58" class="subtitle">Languages &amp; frameworks mastery</text>
+  <rect x="40.0" y="81" width="168.0" height="28" rx="8" fill="#007AFF" opacity="0.08"/>
+  <text x="124.0" y="99" text-anchor="middle" class="label" fill="#007AFF">FRONTEND</text>
+  <line x1="124.0" y1="117" x2="124.0" y2="381" stroke="#F2F2F7" stroke-width="2"/>
+  <circle cx="124.0" cy="137" r="5" fill="#FFFFFF" stroke="#1572B6" stroke-width="2"/>
+  <circle cx="124.0" cy="137" r="2.5" fill="#1572B6"/>
+  <text x="138.0" y="129" font-size="12" font-weight="500" fill="#1D1D1F">CSS</text>
+  <rect x="138.0" y="139" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="138.0" y="139" width="104.0" height="6" rx="3" fill="#1572B6" opacity="0.6"/>
+  <text x="246.0" y="130" font-size="8" font-weight="600" fill="#FFCC00" letter-spacing="0.5">MASTER</text>
+  <circle cx="124.0" cy="181" r="5" fill="#FFFFFF" stroke="#F7DF1E" stroke-width="2"/>
+  <circle cx="124.0" cy="181" r="2.5" fill="#F7DF1E"/>
+  <text x="138.0" y="173" font-size="12" font-weight="500" fill="#1D1D1F">JavaScript</text>
+  <rect x="138.0" y="183" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="138.0" y="183" width="79.5" height="6" rx="3" fill="#F7DF1E" opacity="0.6"/>
+  <text x="246.0" y="174" font-size="8" font-weight="600" fill="#FFCC00" letter-spacing="0.5">MASTER</text>
+  <circle cx="124.0" cy="225" r="5" fill="#FFFFFF" stroke="#E34F26" stroke-width="2"/>
+  <circle cx="124.0" cy="225" r="2.5" fill="#E34F26"/>
+  <text x="138.0" y="217" font-size="12" font-weight="500" fill="#1D1D1F">HTML</text>
+  <rect x="138.0" y="227" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="138.0" y="227" width="71.9" height="6" rx="3" fill="#E34F26" opacity="0.6"/>
+  <text x="246.0" y="218" font-size="8" font-weight="600" fill="#AF52DE" letter-spacing="0.5">EXPERT</text>
+  <circle cx="124.0" cy="269" r="5" fill="#FFFFFF" stroke="#4FC08D" stroke-width="2"/>
+  <circle cx="124.0" cy="269" r="2.5" fill="#4FC08D"/>
+  <text x="138.0" y="261" font-size="12" font-weight="500" fill="#1D1D1F">Vue</text>
+  <rect x="138.0" y="271" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="138.0" y="271" width="54.8" height="6" rx="3" fill="#4FC08D" opacity="0.6"/>
+  <text x="246.0" y="262" font-size="8" font-weight="600" fill="#AF52DE" letter-spacing="0.5">EXPERT</text>
+  <circle cx="124.0" cy="313" r="5" fill="#FFFFFF" stroke="#0175C2" stroke-width="2"/>
+  <circle cx="124.0" cy="313" r="2.5" fill="#0175C2"/>
+  <text x="138.0" y="305" font-size="12" font-weight="500" fill="#1D1D1F">Dart</text>
+  <rect x="138.0" y="315" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="138.0" y="315" width="26.1" height="6" rx="3" fill="#0175C2" opacity="0.6"/>
+  <text x="246.0" y="306" font-size="8" font-weight="600" fill="#007AFF" letter-spacing="0.5">ADEPT</text>
+  <circle cx="124.0" cy="357" r="5" fill="#FFFFFF" stroke="#C6538C" stroke-width="2"/>
+  <circle cx="124.0" cy="357" r="2.5" fill="#C6538C"/>
+  <text x="138.0" y="349" font-size="12" font-weight="500" fill="#1D1D1F">SCSS</text>
+  <rect x="138.0" y="359" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="138.0" y="359" width="12.0" height="6" rx="3" fill="#C6538C" opacity="0.6"/>
+  <text x="246.0" y="350" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <rect x="224.0" y="81" width="168.0" height="28" rx="8" fill="#34C759" opacity="0.08"/>
+  <text x="308.0" y="99" text-anchor="middle" class="label" fill="#34C759">BACKEND</text>
+  <line x1="308.0" y1="117" x2="308.0" y2="469" stroke="#F2F2F7" stroke-width="2"/>
+  <circle cx="308.0" cy="137" r="5" fill="#FFFFFF" stroke="#ED8B00" stroke-width="2"/>
+  <circle cx="308.0" cy="137" r="2.5" fill="#ED8B00"/>
+  <text x="322.0" y="129" font-size="12" font-weight="500" fill="#1D1D1F">Java</text>
+  <rect x="322.0" y="139" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="322.0" y="139" width="35.8" height="6" rx="3" fill="#ED8B00" opacity="0.6"/>
+  <text x="430.0" y="130" font-size="8" font-weight="600" fill="#007AFF" letter-spacing="0.5">ADEPT</text>
+  <circle cx="308.0" cy="181" r="5" fill="#FFFFFF" stroke="#777BB4" stroke-width="2"/>
+  <circle cx="308.0" cy="181" r="2.5" fill="#777BB4"/>
+  <text x="322.0" y="173" font-size="12" font-weight="500" fill="#1D1D1F">PHP</text>
+  <rect x="322.0" y="183" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="322.0" y="183" width="14.1" height="6" rx="3" fill="#777BB4" opacity="0.6"/>
+  <text x="430.0" y="174" font-size="8" font-weight="600" fill="#34C759" letter-spacing="0.5">SKILLED</text>
+  <circle cx="308.0" cy="225" r="5" fill="#FFFFFF" stroke="#3776AB" stroke-width="2"/>
+  <circle cx="308.0" cy="225" r="2.5" fill="#3776AB"/>
+  <text x="322.0" y="217" font-size="12" font-weight="500" fill="#1D1D1F">Python</text>
+  <rect x="322.0" y="227" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="322.0" y="227" width="12.0" height="6" rx="3" fill="#3776AB" opacity="0.6"/>
+  <text x="430.0" y="218" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <circle cx="308.0" cy="269" r="5" fill="#FFFFFF" stroke="#00599C" stroke-width="2"/>
+  <circle cx="308.0" cy="269" r="2.5" fill="#00599C"/>
+  <text x="322.0" y="261" font-size="12" font-weight="500" fill="#1D1D1F">C++</text>
+  <rect x="322.0" y="271" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="322.0" y="271" width="12.0" height="6" rx="3" fill="#00599C" opacity="0.6"/>
+  <text x="430.0" y="262" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <circle cx="308.0" cy="313" r="5" fill="#FFFFFF" stroke="#00ADD8" stroke-width="2"/>
+  <circle cx="308.0" cy="313" r="2.5" fill="#00ADD8"/>
+  <text x="322.0" y="305" font-size="12" font-weight="500" fill="#1D1D1F">Go</text>
+  <rect x="322.0" y="315" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="322.0" y="315" width="12.0" height="6" rx="3" fill="#00ADD8" opacity="0.6"/>
+  <text x="430.0" y="306" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <circle cx="308.0" cy="357" r="5" fill="#FFFFFF" stroke="#555555" stroke-width="2"/>
+  <circle cx="308.0" cy="357" r="2.5" fill="#555555"/>
+  <text x="322.0" y="349" font-size="12" font-weight="500" fill="#1D1D1F">C</text>
+  <rect x="322.0" y="359" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="322.0" y="359" width="12.0" height="6" rx="3" fill="#555555" opacity="0.6"/>
+  <text x="430.0" y="350" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <rect x="408.0" y="81" width="168.0" height="28" rx="8" fill="#AF52DE" opacity="0.08"/>
+  <text x="492.0" y="99" text-anchor="middle" class="label" fill="#AF52DE">DEVOPS</text>
+  <line x1="492.0" y1="117" x2="492.0" y2="161" stroke="#F2F2F7" stroke-width="2"/>
+  <circle cx="492.0" cy="137" r="5" fill="#FFFFFF" stroke="#89E051" stroke-width="2"/>
+  <circle cx="492.0" cy="137" r="2.5" fill="#89E051"/>
+  <text x="506.0" y="129" font-size="12" font-weight="500" fill="#1D1D1F">Shell</text>
+  <rect x="506.0" y="139" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="506.0" y="139" width="12.0" height="6" rx="3" fill="#89E051" opacity="0.6"/>
+  <text x="614.0" y="130" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <rect x="592.0" y="81" width="168.0" height="28" rx="8" fill="#AEAEB2" opacity="0.08"/>
+  <text x="676.0" y="99" text-anchor="middle" class="label" fill="#AEAEB2">OTHER</text>
+  <line x1="676.0" y1="117" x2="676.0" y2="337" stroke="#F2F2F7" stroke-width="2"/>
+  <circle cx="676.0" cy="137" r="5" fill="#FFFFFF" stroke="#86868B" stroke-width="2"/>
+  <circle cx="676.0" cy="137" r="2.5" fill="#86868B"/>
+  <text x="690.0" y="129" font-size="12" font-weight="500" fill="#1D1D1F">CMake</text>
+  <rect x="690.0" y="139" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="690.0" y="139" width="12.0" height="6" rx="3" fill="#86868B" opacity="0.6"/>
+  <text x="798.0" y="130" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <circle cx="676.0" cy="181" r="5" fill="#FFFFFF" stroke="#F05138" stroke-width="2"/>
+  <circle cx="676.0" cy="181" r="2.5" fill="#F05138"/>
+  <text x="690.0" y="173" font-size="12" font-weight="500" fill="#1D1D1F">Swift</text>
+  <rect x="690.0" y="183" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="690.0" y="183" width="12.0" height="6" rx="3" fill="#F05138" opacity="0.6"/>
+  <text x="798.0" y="174" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <circle cx="676.0" cy="225" r="5" fill="#FFFFFF" stroke="#86868B" stroke-width="2"/>
+  <circle cx="676.0" cy="225" r="2.5" fill="#86868B"/>
+  <text x="690.0" y="217" font-size="12" font-weight="500" fill="#1D1D1F">COBOL</text>
+  <rect x="690.0" y="227" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="690.0" y="227" width="12.0" height="6" rx="3" fill="#86868B" opacity="0.6"/>
+  <text x="798.0" y="218" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <circle cx="676.0" cy="269" r="5" fill="#FFFFFF" stroke="#86868B" stroke-width="2"/>
+  <circle cx="676.0" cy="269" r="2.5" fill="#86868B"/>
+  <text x="690.0" y="261" font-size="12" font-weight="500" fill="#1D1D1F">Objective-C</text>
+  <rect x="690.0" y="271" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="690.0" y="271" width="12.0" height="6" rx="3" fill="#86868B" opacity="0.6"/>
+  <text x="798.0" y="262" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <circle cx="676.0" cy="313" r="5" fill="#FFFFFF" stroke="#86868B" stroke-width="2"/>
+  <circle cx="676.0" cy="313" r="2.5" fill="#86868B"/>
+  <text x="690.0" y="305" font-size="12" font-weight="500" fill="#1D1D1F">Ada</text>
+  <rect x="690.0" y="315" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
+  <rect x="690.0" y="315" width="12.0" height="6" rx="3" fill="#86868B" opacity="0.6"/>
+  <text x="798.0" y="306" font-size="8" font-weight="600" fill="#AEAEB2" letter-spacing="0.5">NOVICE</text>
+  <text x="32" y="378" class="small" fill="#AEAEB2">20 skills unlocked · 2 mastered</text>
+</svg>
