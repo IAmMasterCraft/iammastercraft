@@ -38,19 +38,19 @@
   <circle cx="124.0" cy="181" r="2.5" fill="#F7DF1E"/>
   <text x="138.0" y="173" font-size="12" font-weight="500" fill="#1D1D1F">JavaScript</text>
   <rect x="138.0" y="183" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
-  <rect x="138.0" y="183" width="82.0" height="6" rx="3" fill="#F7DF1E" opacity="0.6"/>
+  <rect x="138.0" y="183" width="83.1" height="6" rx="3" fill="#F7DF1E" opacity="0.6"/>
   <text x="246.0" y="174" font-size="8" font-weight="600" fill="#FFCC00" letter-spacing="0.5">MASTER</text>
   <circle cx="124.0" cy="225" r="5" fill="#FFFFFF" stroke="#E34F26" stroke-width="2"/>
   <circle cx="124.0" cy="225" r="2.5" fill="#E34F26"/>
   <text x="138.0" y="217" font-size="12" font-weight="500" fill="#1D1D1F">HTML</text>
   <rect x="138.0" y="227" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
-  <rect x="138.0" y="227" width="72.0" height="6" rx="3" fill="#E34F26" opacity="0.6"/>
+  <rect x="138.0" y="227" width="72.2" height="6" rx="3" fill="#E34F26" opacity="0.6"/>
   <text x="246.0" y="218" font-size="8" font-weight="600" fill="#AF52DE" letter-spacing="0.5">EXPERT</text>
   <circle cx="124.0" cy="269" r="5" fill="#FFFFFF" stroke="#4FC08D" stroke-width="2"/>
   <circle cx="124.0" cy="269" r="2.5" fill="#4FC08D"/>
   <text x="138.0" y="261" font-size="12" font-weight="500" fill="#1D1D1F">Vue</text>
   <rect x="138.0" y="271" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
-  <rect x="138.0" y="271" width="54.5" height="6" rx="3" fill="#4FC08D" opacity="0.6"/>
+  <rect x="138.0" y="271" width="54.3" height="6" rx="3" fill="#4FC08D" opacity="0.6"/>
   <text x="246.0" y="262" font-size="8" font-weight="600" fill="#AF52DE" letter-spacing="0.5">EXPERT</text>
   <circle cx="124.0" cy="313" r="5" fill="#FFFFFF" stroke="#0175C2" stroke-width="2"/>
   <circle cx="124.0" cy="313" r="2.5" fill="#0175C2"/>
@@ -71,13 +71,13 @@
   <circle cx="308.0" cy="137" r="2.5" fill="#ED8B00"/>
   <text x="322.0" y="129" font-size="12" font-weight="500" fill="#1D1D1F">Java</text>
   <rect x="322.0" y="139" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
-  <rect x="322.0" y="139" width="35.6" height="6" rx="3" fill="#ED8B00" opacity="0.6"/>
+  <rect x="322.0" y="139" width="35.5" height="6" rx="3" fill="#ED8B00" opacity="0.6"/>
   <text x="430.0" y="130" font-size="8" font-weight="600" fill="#007AFF" letter-spacing="0.5">ADEPT</text>
   <circle cx="308.0" cy="181" r="5" fill="#FFFFFF" stroke="#777BB4" stroke-width="2"/>
   <circle cx="308.0" cy="181" r="2.5" fill="#777BB4"/>
   <text x="322.0" y="173" font-size="12" font-weight="500" fill="#1D1D1F">PHP</text>
   <rect x="322.0" y="183" width="104.0" height="6" rx="3" fill="#F5F5F7"/>
-  <rect x="322.0" y="183" width="14.0" height="6" rx="3" fill="#777BB4" opacity="0.6"/>
+  <rect x="322.0" y="183" width="13.9" height="6" rx="3" fill="#777BB4" opacity="0.6"/>
   <text x="430.0" y="174" font-size="8" font-weight="600" fill="#34C759" letter-spacing="0.5">SKILLED</text>
   <circle cx="308.0" cy="225" r="5" fill="#FFFFFF" stroke="#3776AB" stroke-width="2"/>
   <circle cx="308.0" cy="225" r="2.5" fill="#3776AB"/>
