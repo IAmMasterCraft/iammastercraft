@@ -32,64 +32,64 @@
   <text x="56" y="176" font-size="11" fill="#86868B">No commits detected today</text>
   <text x="56" y="200" font-size="12" font-weight="500" fill="#007AFF">→ Steady</text>
   <text x="300" y="74" class="label">7-DAY FORECAST</text>
-  <text x="332.85714285714283" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Wed</text>
-  <text x="332.85714285714283" y="122" text-anchor="middle" font-size="18">☁️</text>
-  <text x="332.85714285714283" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
+  <text x="332.85714285714283" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Thu</text>
+  <text x="332.85714285714283" y="122" text-anchor="middle" font-size="18">☀️</text>
+  <text x="332.85714285714283" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">4</text>
   <text x="332.85714285714283" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
-  <text x="398.57142857142856" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Thu</text>
-  <text x="398.57142857142856" y="122" text-anchor="middle" font-size="18">☀️</text>
-  <text x="398.57142857142856" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">4</text>
+  <text x="398.57142857142856" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Fri</text>
+  <text x="398.57142857142856" y="122" text-anchor="middle" font-size="18">⛅</text>
+  <text x="398.57142857142856" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">1</text>
   <text x="398.57142857142856" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
-  <text x="464.2857142857143" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Fri</text>
-  <text x="464.2857142857143" y="122" text-anchor="middle" font-size="18">⛅</text>
-  <text x="464.2857142857143" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">1</text>
+  <text x="464.2857142857143" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Sat</text>
+  <text x="464.2857142857143" y="122" text-anchor="middle" font-size="18">☁️</text>
+  <text x="464.2857142857143" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
   <text x="464.2857142857143" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
-  <text x="530.0" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Sat</text>
-  <text x="530.0" y="122" text-anchor="middle" font-size="18">☁️</text>
-  <text x="530.0" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
+  <text x="530.0" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Sun</text>
+  <text x="530.0" y="122" text-anchor="middle" font-size="18">⛅</text>
+  <text x="530.0" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">1</text>
   <text x="530.0" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
-  <text x="595.7142857142858" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Sun</text>
-  <text x="595.7142857142858" y="122" text-anchor="middle" font-size="18">⛅</text>
-  <text x="595.7142857142858" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">1</text>
+  <text x="595.7142857142858" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Mon</text>
+  <text x="595.7142857142858" y="122" text-anchor="middle" font-size="18">☁️</text>
+  <text x="595.7142857142858" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
   <text x="595.7142857142858" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
-  <text x="661.4285714285714" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Mon</text>
+  <text x="661.4285714285714" y="94" text-anchor="middle" font-size="11" font-weight="400" fill="#86868B">Tue</text>
   <text x="661.4285714285714" y="122" text-anchor="middle" font-size="18">☁️</text>
   <text x="661.4285714285714" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
   <text x="661.4285714285714" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
-  <text x="727.1428571428571" y="94" text-anchor="middle" font-size="11" font-weight="600" fill="#1D1D1F">Tue</text>
+  <text x="727.1428571428571" y="94" text-anchor="middle" font-size="11" font-weight="600" fill="#1D1D1F">Wed</text>
   <text x="727.1428571428571" y="122" text-anchor="middle" font-size="18">☁️</text>
   <text x="727.1428571428571" y="140" text-anchor="middle" font-size="13" font-weight="600" fill="#1D1D1F">0</text>
   <text x="727.1428571428571" y="154" text-anchor="middle" font-size="9" fill="#AEAEB2">commits</text>
   <text x="300" y="194" class="label">30-DAY ACTIVITY</text>
   <rect x="744.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="729.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
-  <rect x="714.0" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
-  <rect x="698.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
-  <rect x="683.3" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
-  <rect x="668.0" y="241.3" width="14.3" height="26.7" rx="1.5" fill="#007AFF" opacity="0.5"/>
-  <rect x="652.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="714.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="698.7" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="683.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="668.0" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="652.7" y="241.3" width="14.3" height="26.7" rx="1.5" fill="#007AFF" opacity="0.5"/>
   <rect x="637.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="622.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="606.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="591.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="576.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
-  <rect x="560.7" y="254.7" width="14.3" height="13.3" rx="1.5" fill="#007AFF" opacity="0.3"/>
-  <rect x="545.3" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
-  <rect x="530.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
-  <rect x="514.7" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
-  <rect x="499.3" y="208.0" width="14.3" height="60.0" rx="1.5" fill="#007AFF" opacity="0.7"/>
-  <rect x="484.0" y="241.3" width="14.3" height="26.7" rx="1.5" fill="#007AFF" opacity="0.5"/>
-  <rect x="468.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="560.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="545.3" y="254.7" width="14.3" height="13.3" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="530.0" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="514.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="499.3" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="484.0" y="208.0" width="14.3" height="60.0" rx="1.5" fill="#007AFF" opacity="0.7"/>
+  <rect x="468.7" y="241.3" width="14.3" height="26.7" rx="1.5" fill="#007AFF" opacity="0.5"/>
   <rect x="453.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
-  <rect x="438.0" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
-  <rect x="422.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="438.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="422.7" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
   <rect x="407.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
-  <rect x="392.0" y="248.0" width="14.3" height="20.0" rx="1.5" fill="#007AFF" opacity="0.5"/>
-  <rect x="376.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="392.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
+  <rect x="376.7" y="248.0" width="14.3" height="20.0" rx="1.5" fill="#007AFF" opacity="0.5"/>
   <rect x="361.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="346.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="330.7" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <rect x="315.3" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
-  <rect x="300.0" y="261.3" width="14.3" height="6.7" rx="1.5" fill="#007AFF" opacity="0.3"/>
+  <rect x="300.0" y="266.0" width="14.3" height="2.0" rx="1.5" fill="#F2F2F7"/>
   <text x="32" y="278" class="small" fill="#AEAEB2">Today: 0 commits · 7-day avg: 0.9 · 30-day avg: 0.9</text>
 </svg>
